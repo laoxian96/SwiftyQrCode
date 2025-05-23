@@ -1,4 +1,4 @@
-# SwiftyBlur Effect
+# Swifty QrCode
 
 This SwiftUI Component can create a qrcode view.
 
