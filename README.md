@@ -17,6 +17,9 @@ dependencies: [
 ## Usage
 
 ```swift
+import SwiftUI
+import SwiftyQrCode
+
 struct SwiftyQrCodePreview: View {
     var body: some View {
         SwiftyQrCodeView(
